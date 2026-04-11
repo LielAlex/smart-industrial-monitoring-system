@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: smartmonitoring-postgres
+    environment:
+      POSTGRES_DB: smartmonitoring
+      POSTGRES_USER: lielb
+      POSTGRES_PASSWORD: Alexandre1996!
+    ports:
+      - "5432:5432"
