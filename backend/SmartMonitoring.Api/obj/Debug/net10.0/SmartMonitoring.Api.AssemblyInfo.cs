@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartMonitoring.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5efa440ba063d999667462811ed2530c0f68167")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6277749c010bf25f334b37655ee10d74f5a60134")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartMonitoring.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartMonitoring.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
