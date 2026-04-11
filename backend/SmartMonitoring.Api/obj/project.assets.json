@@ -2649,10 +2649,7 @@
         "net10.0"
       ],
       "sources": {
-        "C:\\MyPackages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\lielb\\Downloads\\LicenseEngine": {},
-        "http://desktop-s7gtd3v:8080/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
