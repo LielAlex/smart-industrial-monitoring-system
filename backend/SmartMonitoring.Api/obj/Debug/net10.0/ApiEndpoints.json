@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartMonitoring.Api.Endpoints.AlertEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapAlertEndpoints\u003Eb__0_0",
+    "RelativePath": "api/alerts",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartMonitoring.Api.Endpoints.SensorEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapSensorEndpoints\u003Eb__0_0",
+    "RelativePath": "api/sensors",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartMonitoring.Api.Contracts.CreateSensorDataRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartMonitoring.Api.Endpoints.SensorEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapSensorEndpoints\u003Eb__0_1",
+    "RelativePath": "api/sensors",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

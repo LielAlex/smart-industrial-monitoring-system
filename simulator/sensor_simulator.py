@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 
 import requests
 
-API_URL = "http://localhost:5182/api/sensors" 
+API_URL = "http://localhost:5055/api/sensors" 
 
 MACHINE_IDS = ["M1", "M2", "M3"]
 

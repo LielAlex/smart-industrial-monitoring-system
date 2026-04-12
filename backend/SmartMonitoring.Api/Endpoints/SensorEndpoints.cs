@@ -19,7 +19,7 @@ public static class SensorEndpoints
                 MachineId = request.MachineId,
                 Temperature = request.Temperature,
                 Pressure = request.Pressure,
-                Timestamp = request.Timestamp
+                Timestamp = request.Timestamp.UtcDateTime
             };
 
             db.SensorData.Add(sensorData);

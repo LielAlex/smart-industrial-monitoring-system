@@ -124,3 +124,4 @@ C:\Users\lielb\source\repos\smart-industrial-monitoring-system\backend\SmartMoni
 C:\Users\lielb\source\repos\smart-industrial-monitoring-system\backend\SmartMonitoring.Api\obj\Debug\net10.0\SmartMonitoring.Api.pdb
 C:\Users\lielb\source\repos\smart-industrial-monitoring-system\backend\SmartMonitoring.Api\obj\Debug\net10.0\SmartMonitoring.Api.genruntimeconfig.cache
 C:\Users\lielb\source\repos\smart-industrial-monitoring-system\backend\SmartMonitoring.Api\obj\Debug\net10.0\ref\SmartMonitoring.Api.dll
+C:\Users\lielb\source\repos\smart-industrial-monitoring-system\backend\SmartMonitoring.Api\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
